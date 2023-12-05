@@ -1,0 +1,40 @@
+{
+  "utilisateurs": [
+    {
+      "nomUtilisateur": "Mamadou",
+      "emailUtilisateur": "mamadousalifou01@gmail.com",
+      "moDePasse": "1234567",
+      "moDePasseConfir": "1234567",
+      "id": 1
+    }
+  ],
+  "publication": [
+    {
+      "postContent": "On ne peut pas être pauvre et être en bonne santé ",
+      "postlink": "https://img.freepik.com/free-photo/surprised-afro-american-woman-stands-sideways-points-away-empty-space_273609-45552.jpg?t=st=1701718689~exp=1701719289~hmac=cbbd99ccbe4eea652481ee6b8261fbfbcec294c5a44bc3884e8c1f0cab366dde",
+      "idUtilisateur": 1,
+      "dataPublication": "2023-12-04T19:01:36.461Z",
+      "likePost": 0,
+      "auteur": "Mamadou",
+      "id": 1
+    },
+    {
+      "postContent": "VOUS ETES UNE BONNE PERSONNE",
+      "postlink": "https://img.freepik.com/free-photo/surprised-afro-american-woman-stands-sideways-points-away-empty-space_273609-45552.jpg?t=st=1701718689~exp=1701719289~hmac=cbbd99ccbe4eea652481ee6b8261fbfbcec294c5a44bc3884e8c1f0cab366dde",
+      "idUtilisateur": 1,
+      "dataPublication": "2023-12-04T19:33:20.929Z",
+      "likePost": 0,
+      "auteur": "Mamadou",
+      "id": 2
+    },
+    {
+      "postContent": "Bienvenue a la maison",
+      "postlink": "https://img.freepik.com/free-photo/indignant-male-professor-points-himself-asks-about-his-duties-carries-textbook-wears-casual-red-sweater-going-conduct-seminar-scientists-isolated-white-wall_273609-23710.jpg?w=1380&t=st=1701720200~exp=1701720800~hmac=eaa7fe3763fa7f67600f672ffb9e2bbeac3a3564c70cbb9c3151199162a797e1",
+      "idUtilisateur": 1,
+      "dataPublication": "2023-12-04T20:03:52.566Z",
+      "likePost": 0,
+      "auteur": "Mamadou",
+      "id": 3
+    }
+  ]
+}
